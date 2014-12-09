@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://www.lifelaf.com/svn/ctree"
+   name=""
+   revision="15"
+   last-author="shaochuancs@gmail.com"
+   url="https://www.lifelaf.com/svn/ctree/dist"
+   uuid="a1a3fd8a-2c60-4f53-a3c8-240272da9943"
+   committed-rev="9"
+   kind="dir"
+   committed-date="2013-02-21T12:28:58.217197Z"/>
+<entry
+   name="jquery.ctree.min.v0.1.js.zip"
+   checksum="90a0224e45b979a24ccdf74d1c540e56"
+   last-author="shaochuancs@gmail.com"
+   committed-rev="8"
+   text-time="2013-01-28T03:57:44.000000Z"
+   kind="file"
+   committed-date="2013-02-21T12:25:48.866000Z"
+   prop-time="2013-02-21T12:22:36.000000Z"/>
+<entry
+   name="jquery.ctree.min.v0.2.js.zip"
+   revision="19"
+   checksum="ca8ea4cb17e3e85b97533f34eb10b45d"
+   last-author="shaochuancs@gmail.com"
+   committed-rev="19"
+   text-time="2013-03-20T03:50:51.000000Z"
+   kind="file"
+   committed-date="2013-03-20T03:52:40.241000Z"
+   prop-time="2013-02-21T12:22:36.000000Z"/>
+</wc-entries>

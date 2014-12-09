@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://www.lifelaf.com/svn/ctree"
+   name=""
+   revision="15"
+   last-author="shaochuancs@gmail.com"
+   url="https://www.lifelaf.com/svn/ctree/jsFiles"
+   uuid="a1a3fd8a-2c60-4f53-a3c8-240272da9943"
+   committed-rev="3"
+   kind="dir"
+   committed-date="2013-01-28T04:53:51.690818Z"/>
+<entry
+   name="jquery.js"
+   checksum="ddb84c1587287b2df08966081ef063bf"
+   last-author="shaochuancs@gmail.com"
+   committed-rev="1"
+   text-time="2013-01-28T03:57:44.000000Z"
+   kind="file"
+   committed-date="2013-01-28T03:57:44.635664Z"/>
+<entry
+   name="sample.js"
+   checksum="013588c60c7380a9cb08817f84ebeeba"
+   last-author="shaochuancs@gmail.com"
+   committed-rev="3"
+   text-time="2013-01-28T04:53:51.000000Z"
+   kind="file"
+   committed-date="2013-01-28T04:53:51.690818Z"/>
+</wc-entries>
