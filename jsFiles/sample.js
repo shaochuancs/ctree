@@ -108,7 +108,7 @@ $(function(){
             "audioInputLine" : {"icon" : "imgFiles/audio-input-line.png"}
         },
         "select_mode" : true,
-        "cTreeImgs" : "dev/cTreeNodeIcons.png"
+        "cTreeImgs" : "src/cTreeNodeIcons.png"
         //"forceUseImgs" : true
         //"noCancelSelect_mode" : true,
     }).bind('CTREE_EVENT_DESELECT', function(e, obj){alert(obj)}).bind('CTREE_EVENT_SELECT', f);
